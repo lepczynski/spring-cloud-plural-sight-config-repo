@@ -2,7 +2,9 @@ spring:
   application:
     name: cloud-client
 
-some.other.property: "app specific overridden value"
+some:
+  other: "sadsadfaf"
+  property: "app specific overridden value"
 
 eureka:
   client:
